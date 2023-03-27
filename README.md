@@ -8,8 +8,10 @@ BoW to CNN
   - Time to train
   - Analysis of sensibility to the different parameters
   - Incorrectly classified images
- - DCGAN
+
+- DCGAN
   - Explain structure
   - Explain training procedure
   - Explain effect of parameters in the generated images for each dataset
+
  - Extra points for any changes in the architectures
