@@ -12,4 +12,4 @@ BoW to CNN
   - Explain structure
   - Explain training procedure
   - Explain effect of parameters in the generated images for each dataset
- - Extra points for any changes in the architecture
+ - Extra points for any changes in the architectures
