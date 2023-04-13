@@ -94,7 +94,7 @@ class ImageClassifier:
         if kernel_type == "SVM_LINEAR":
             self._classifier.setKernel(cv2.ml.SVM_LINEAR)
         elif kernel_type == "SVM_POLY":
-            slef._classifier.setKernel(cv2.ml.SVM_POLY)
+            self._classifier.setKernel(cv2.ml.SVM_POLY)
         elif kernel_type == "SVM_RBF":
             self._classifier.setKernel(cv2.ml.SVM_RBF)
         elif kernel_type == "SVM_SIGMOID":

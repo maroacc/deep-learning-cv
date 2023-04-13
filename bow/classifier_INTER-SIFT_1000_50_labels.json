@@ -1,0 +1,17 @@
+{
+    "Bedroom": 0,
+    "Coast": 1,
+    "Forest": 2,
+    "Highway": 3,
+    "Industrial": 4,
+    "Inside city": 5,
+    "Kitchen": 6,
+    "Living room": 7,
+    "Mountain": 8,
+    "Office": 9,
+    "Open country": 10,
+    "Store": 11,
+    "Street": 12,
+    "Suburb": 13,
+    "Tall building": 14
+}
